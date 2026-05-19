@@ -29,12 +29,3 @@ This app generates random colors instantly and changes the background dynamicall
 ### Home Page
 
 ![Random Color Generator](random-color-generator.png)
-
----
-
-## ⚙️ Installation
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/random-color-generator.git
